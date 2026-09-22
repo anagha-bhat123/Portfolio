@@ -956,6 +956,7 @@ body {
   font-weight: 600;
 }
 .about-bio strong { color: var(--text-primary); font-weight: 700; }
+.varsync-link, .varsync-link:hover { text-decoration: none; }
 
 /* Traits */
 .about-traits { display: flex; flex-direction: column; gap: 12px; }

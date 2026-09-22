@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anagha.varsync.in/sitemap.xml
